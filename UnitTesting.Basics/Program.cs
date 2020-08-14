@@ -6,7 +6,12 @@ namespace UnitTesting.Basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Test15KMemberContribution();
+        }
+
+        static void Test15KMemberContribution()
+        {
+            
         }
     }
 }

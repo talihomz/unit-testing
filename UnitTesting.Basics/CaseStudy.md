@@ -18,7 +18,8 @@ Loans are determined using members contributions as follows:
 | 0 - 15K              | 15K         |
 | 15 - 50K             | 75K         |
 | 50 - 100K            | 150K        |
-| >100K                | 500K        |
+| >100K - 500          | 500K        |
+| >500K				   | 600K        |
 
 Additionally, members can get a 'booster loan' on top of the loan products, by virtue of how long they have been a member as follows:
 
@@ -33,4 +34,10 @@ Additionally, members can get a 'booster loan' on top of the loan products, by v
 
 Build a Loan Processing module to automatically give members loans using conditions given above.
 
+## Starting Steps
 
+- Read it again
+- Create a dictionary with all conditions
+- Create a fn to process loans for one case
+- List all features to be served
+- Concrete Sample
